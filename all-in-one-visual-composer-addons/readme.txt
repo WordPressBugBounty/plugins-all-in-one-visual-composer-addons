@@ -3,7 +3,7 @@ Contributors: Labibahmed42
 Tags: all in one plugin for wpbakery page builder,wpbakery page builder addons,wpbakery addons bundle,wpbakery page builder,carousel,team,image hover effects,image over image,heading,sliders,image slider,visual composer addon,animated text,banners,image,wpbakery extension,visual composer extension,flip boxes
 Donate link: https://www.paypal.me/labibahmed/5
 Requires at least: 3.5
-Tested up to: 6.5
+Tested up to: 6.8
 Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
