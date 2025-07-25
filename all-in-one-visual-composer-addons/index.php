@@ -6,7 +6,7 @@
 	Author: Labib Ahmed
 	Author URI: http://webdevocean.com/about
 	Version: 1.2
-	Tested up to: 6.5
+	Tested up to: 6.8
 	License: GPL2
 	Text Domain: wdo-ultimate-addons
 	*/
