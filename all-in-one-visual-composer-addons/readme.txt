@@ -1,6 +1,6 @@
 === All in One Addons For WPBakery Page Builder  (formerly Visual Composer) ===
 Contributors: Labibahmed42
-Tags: all in one plugin for wpbakery page builder,wpbakery page builder addons,wpbakery addons bundle,wpbakery page builder,carousel,team,image hover effects,image over image,heading,sliders,image slider,visual composer addon,animated text,banners,image,wpbakery extension,visual composer extension,flip boxes
+Tags: wpbakery-addons,image-gallery,pricing-tables,image-slider,team-showcase
 Donate link: https://www.paypal.me/labibahmed/5
 Requires at least: 3.5
 Tested up to: 6.8
